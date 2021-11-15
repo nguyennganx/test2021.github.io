@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+
+* {
+	margin:0;
+	padding:0;
+}
+.manage {
+	background-color: antiquewhite;
+	padding: 50px 100px;
+}
+.personal {
+	width: 30%
+}
+.personal img {
+	width:100%;
+	margin-bottom: 10px;
+} 
+.manage {
+	display: flex;
+	justify-content: space-around;
+} 
